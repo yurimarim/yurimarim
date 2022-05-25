@@ -1,5 +1,5 @@
 <h2 align="center">
-Olá mundo, eu sou o Yuri Marim!
+Oi, eu sou o Yuri Marim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 </h2>  
 <h6 align="center">Fico grato por visitar 😄</h6>
   
@@ -37,7 +37,7 @@ Olá mundo, eu sou o Yuri Marim!
   </a>
 <div>
 
-- 🌱 Tecnologias: React, React Native, TypeScript, fazem parte do meu ecossistema de estudo e desenvolvimento.
+- 🌱 Tecnologias: React, React Native, NodeJS e TypeScript, fazem parte do meu ecossistema de estudo e desenvolvimento.
 - ⚡ Fun fact: Gosto de jogos (diversos gêneros) porém meu jogo favorito é The Last of Us, sou guitarrista, apaixonado por músicas 80's, animes e apaixonado pelo universo de Berserk. Caso queira visualizar algumas de minhas playlists ou os animes que estou acompanhando, os links para meu perfil do Spotify e do MyAnimeList encontram-se nas badges.
   
     ![Snake animation](https://github.com/yurimarim/yurimarim/blob/output/github-contribution-grid-snake.svg)
