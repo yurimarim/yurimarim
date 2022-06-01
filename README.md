@@ -1,5 +1,5 @@
 <h2 align="center">
-Oi, eu sou o Yuri Marim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
+Oi, eu sou o Yuri Marim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
 </h2>  
 <h6 align="center">Fico grato por visitar 😄</h6>
   
