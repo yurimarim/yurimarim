@@ -7,9 +7,9 @@
   <a href="https://instagram.com/yuri_marim" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
   </a>
-<!--  	<a href="https://www.twitch.tv/behelit1" target="_blank">
+ 	<a href="https://www.twitch.tv/yur1zada_" target="_blank">
   <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
-  </a> -->
+  </a>
   <a href="https://myanimelist.net/profile/Behelit1" target="_blank">
   <img src="https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white" target="_blank">
   </a>
