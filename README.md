@@ -39,7 +39,6 @@ I am a passionate developer with 4 years of experience specializing in React, Re
 [<img height="48px" width="48px" alt="Icone Vercel" src="https://skillicons.dev/icons?i=vercel"/>](https://vercel.com)
 [<img height="48px" width="48px" alt="Icone Docker" src="https://skillicons.dev/icons?i=docker"/>](https://www.docker.com/)
 [<img height="48px" width="48px" alt="Icone Postman" src="https://i.postimg.cc/QNyBTNVk/postman.png"/>](https://www.postman.com)
-[<img height="48px" width="48px" alt="Icone Git" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>](https://git-scm.com)
 [<img height="48px" width="48px" alt="Icone Figma" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com)
   
   
