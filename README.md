@@ -16,9 +16,9 @@
 <div>
 
 ## Sobre mim
-Sou um desenvolvedor com 4 anos de experiência apaixonado por tecnologia, especializado nas tecnologias React, React Native, NodeJS e JavaScript / TypeScript. Durante minha trajetória, tive a oportunidade de contribuir em diversos projetos inovadores, sempre buscando entregar soluções eficientes e de alta qualidade. Além do desenvolvimento, valorizo o trabalho em equipe e acredito que a colaboração é fundamental para alcançar os melhores resultados. 
+Sou um desenvolvedor com 4 anos de experiência, especializado nas tecnologias React, React Native, NodeJS, JavaScript e TypeScript. Durante minha trajetória, tive a oportunidade de contribuir em diversos projetos inovadores, sempre buscando entregar soluções eficientes e de alta qualidade.
 
-I am a passionate developer with 4 years of experience specializing in React, React Native, NodeJS, and TypeScript technologies. Throughout my career, I’ve had the opportunity to contribute to a variety of innovative projects, always striving to deliver efficient and high-quality solutions. Besides development, I value teamwork and believe that collaboration is key to achieving the best results.
+I'm a developer with 4 years of experience, specializing in React, React Native, NodeJS, JavaScript, and TypeScript. Throughout my career, I've had the opportunity to contribute to several innovative projects, always striving to deliver efficient, high-quality solutions.
 
 ## Detalhes
 * **Name**: Yuri Marim
